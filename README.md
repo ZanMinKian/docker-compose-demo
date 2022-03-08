@@ -1,3 +1,7 @@
+# docker-compose-demo
+
+This is a tiny repo store the usage of docker-compose.
+
 ## Usage
 
 1. start
