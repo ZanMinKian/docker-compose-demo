@@ -1,0 +1,15 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i && docker-compose up"
+  },
+  "author": "zengmingjian",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "mysql2": "^2.3.3"
+  }
+}
